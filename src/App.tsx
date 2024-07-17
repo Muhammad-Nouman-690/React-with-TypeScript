@@ -14,8 +14,8 @@ function App() {
     <>
     <h2>This is Type Script App</h2>
     <p>Your count is {count}</p>
-    <button onClick={handle_Inc}>Click Tuba For Increment</button>
-    <button onClick={handle_Dec}>Click Noman For Decrement</button>
+    <button onClick={handle_Inc}>Click For Increment</button>
+    <button onClick={handle_Dec}>Click For Decrement</button>
     </>
   )
 }
